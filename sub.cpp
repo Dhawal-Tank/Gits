@@ -8,6 +8,6 @@ int main(){
 
     int sub = b - a;
 
-    cout << "The value is: " << sub;
+    cout << "The value of sub is: " << sub;
 
 }
